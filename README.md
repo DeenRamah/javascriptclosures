@@ -13,9 +13,13 @@ closure enable encapsulation , providing a way to create private variables and f
 3>Module Patters :Create private variables and mwthods in modules
 
 # avoiding common Pitfalls
-# Pitfall:Unintended sharing of state || Be cautious with sharing state in closures to avoid unintended site effects
+# Pitfall:
+Unintended sharing of state || Be cautious with sharing state in closures to avoid unintended site effects
 
 # Tips for using closure effectively
-# 1. Clear Naming: Use descriptive names for functions and variables
-# 2,. Avoiding Exessive Nesting: Keep closures simple and readable
-# 3.Document Purpose: Comment on the purpose of your closures
+# 1.
+Clear Naming: Use descriptive names for functions and variables
+# 2,.
+Avoiding Exessive Nesting: Keep closures simple and readable
+# 3.
+Document Purpose: Comment on the purpose of your closures
