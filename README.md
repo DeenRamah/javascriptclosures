@@ -7,3 +7,7 @@ Fuctions that retains access to its lexical scope even when functions is execute
 
 
 closure enable encapsulation , providing a way to create private variables and functions
+#common use cases for clodure 
+1.Event Handling:Reatin access to variables with event listeners
+2.Callbacks: preserve data across asynchronous operations
+3>Module Patters :Create private variables and mwthods in modules
