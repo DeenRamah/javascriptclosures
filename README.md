@@ -22,4 +22,5 @@ Clear Naming: Use descriptive names for functions and variables
 # 2,.
 Avoiding Exessive Nesting: Keep closures simple and readable
 # 3.
-Document Purpose: Comment on the purpose of your closures
+Document Purpose: Comment on the purpose of your closures 
+each documents have variables
